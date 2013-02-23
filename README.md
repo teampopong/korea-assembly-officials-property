@@ -3,7 +3,7 @@
 This repo contains South Korean 19th Assembly Officials' property data in usable formats.
 
 ### Data description
-- 데이터명: [제 19대 국회 신규등록 국회의원 재산등록사항 (`0_raw.pdf`)](http://ebook.assembly.go.kr/HLOpenPDF.jsp?file=general72973655.pdf&keyword=78%C8%A3&system=GENERALPUB)
+- 데이터명: [제 19대 국회 신규등록 국회의원 재산등록사항](http://ebook.assembly.go.kr/HLOpenPDF.jsp?file=general72973655.pdf&keyword=78%C8%A3&system=GENERALPUB)
 - 원본 출처 시스템: [국회발간자료](http://ebook.assembly.go.kr/)
 - 신규등록: 18대엔 국회의원이 아니었으나 19대에는 선출된 의원 (초선과는 다름) 
 
